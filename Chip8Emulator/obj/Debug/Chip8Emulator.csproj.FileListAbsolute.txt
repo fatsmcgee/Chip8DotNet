@@ -1,0 +1,9 @@
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.exe.config
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.exe
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.pdb
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.csprojResolveAssemblyReference.cache
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.Properties.Resources.resources
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.csproj.GenerateResource.Cache
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.exe
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.pdb
+c:\users\ebenjami\documents\visual studio 2012\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.Television.resources
